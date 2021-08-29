@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
   spec.name         = "test_lib_yr"
   
   # 当前Spec 的版本, 一般就是git仓库提交的版本号, 一个版本号对应git仓库的一份代码
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "test_lib_yr 概要描述"
   spec.description  = "test_lib_yr 详细描述,要比summary长"
 
